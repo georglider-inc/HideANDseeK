@@ -8,6 +8,10 @@
 			"Name": "TwitchAuth",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3a81d4366248477e86ccd5798f60536e"
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	]
 }
